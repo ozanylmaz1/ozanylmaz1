@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
-<h3 align="center">🎨 Frontend Developer and 📱 learning mobile development.</h3>
+<h3 align="center"> Frontend & Mobile App Developer</h3>
 
 - 👨‍💻 I’m currently working on [Yeyemek](https://github.com/ozanylmaz1/Yeyemek)
 
