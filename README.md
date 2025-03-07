@@ -7,7 +7,7 @@
 
 - 📚 All of my projects are available at [//projeler](//projeler)
 
-- 📫 How to reach me **ozan.ylmz@outlook.com.tr**
+- 📫 How to reach me **ozany1542@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
