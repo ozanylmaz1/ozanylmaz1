@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
 <h3 align="center"> Frontend & Mobile App Developer</h3>
 
-- 👨‍💻 I’m currently working on [Yeyemek](https://github.com/ozanylmaz1/Yeyemek)
+- 👨‍💻 I’m currently working on [Su Takip : Suji](https://expo.dev/accounts/ozann.yllmaz/projects/su-takip-suji/builds/00239e9c-11b9-4d43-aca8-8f9d7ac92f73)
 
 - ⚛️ I’m currently learning **React Native**
 
-- 📚 All of my projects are available at [//projeler](//projeler)
+- 📚 All of my projects are available at [projeler](https://github.com/ozanylmaz1?tab=repositories)
 
 - 📫 How to reach me **ozany1542@gmail.com**
 
