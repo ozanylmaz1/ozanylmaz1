@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ozan</h1>
+<h1 align="center">Hi 👋, I'm Ozan Yılmazz</h1>
 <h3 align="center"> Frontend & Mobile App Developer</h3>
 
 - 👨‍💻 I’m currently working on [Su Takip : Suji](https://expo.dev/accounts/ozann.yllmaz/projects/su-takip-suji/builds/f0ed56f0-1677-4135-8cb0-edbaa6299f22)
@@ -38,7 +38,7 @@
       <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow@2x.png" alt="bootstrap" width="40" height="40"/> 
     </a> 
     <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> 
-      <img src="https://www.gstatic.com/devrel-devsite/prod/v80eb94e0352d656ad1e20abf6117cdec6c1343c7722ef10f52a1a3f77f1e58f7/firebase/images/lockup.svg" alt="firebase" width="40" height="40"/> 
+      <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="firebase" width="40" height="40"/> 
     </a> 
 
 
