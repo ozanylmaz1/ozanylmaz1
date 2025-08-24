@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozan Yılmaz</h1>
 <h2 align="center"> Frontend & Mobile App Developer</h2>
 
-- 👨‍💻 I’m currently working on [Su Takip : Suji](https://expo.dev/accounts/ozann.yllmaz/projects/su-takip-suji/builds/f0ed56f0-1677-4135-8cb0-edbaa6299f22)
+- 👨‍💻 I’m currently working on [Su Takip : Suji](https://expo.dev/accounts/ozann.yllmaz/projects/su-takip-suji/builds/8968ab06-5d5d-467b-b551-579927990d87)
 
 - ⚛️ I’m currently learning **React Native**
 
