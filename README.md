@@ -2,7 +2,7 @@
 <h2 align="center"> Frontend & Mobile App Developer</h2>
 
 - 👨‍💻 I’m currently working on [DRD](https://github.com/ozanylmaz1/DRD-v1)
-- 
+  
 - ⚛️ I’m currently learning **React Native**
 
 - 📚 All of my projects are available at [projects](https://github.com/ozanylmaz1?tab=repositories)
