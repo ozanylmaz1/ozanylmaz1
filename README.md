@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ozan Yılmaz</h1>
+<h1 align="center">Hi 👋, I'm Ozan</h1>
 <h2 align="center"> Frontend & Mobile App Developer</h2>
 
-- 👨‍💻 I’m currently working on [Su Takip : Suji](https://expo.dev/accounts/ozann.yllmaz/projects/su-takip-suji/builds/8968ab06-5d5d-467b-b551-579927990d87)
-
+- 👨‍💻 I’m currently working on [DRD](https://github.com/ozanylmaz1/DRD-v1)
+- 
 - ⚛️ I’m currently learning **React Native**
 
 - 📚 All of my projects are available at [projects](https://github.com/ozanylmaz1?tab=repositories)
@@ -41,8 +41,4 @@
       <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="firebase" width="40" height="40"/> 
     </a> 
 
-
-
-
-    
 </p>
