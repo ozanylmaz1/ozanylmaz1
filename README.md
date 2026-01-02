@@ -4,7 +4,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ozan-yilmaz-338b802a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-ozan-yilmaz" height="30" width="30" /></a>
-<a href="mailto:ozany1542@gmail.com"><img align="center" src="https://www.microsoft.com/content/dam/microsoft/ba…s/en-us/m365-app-icons-fy26/Outlook-Icon-FY26.svg" alt="mail-ozan-yilmaz" height="30" width="30" /></a>
+<a href="mailto:ozany1542@gmail.com">
+  <img src="https://www.microsoft.com/content/dam/microsoft/bade/images/icons/en-us/m365-app-icons-fy26/Outlook-Icon-FY26.svg" alt="Outlook" loading="lazy"  height="30" width="30" >
+</a>
 </p>
 
 - 📫 How to reach me ****
