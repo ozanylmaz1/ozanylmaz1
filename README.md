@@ -107,7 +107,7 @@
       <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
     </a> 
       <a href="https://docs.expo.dev/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/user-attachments/assets/6941068c-4d14-4ac6-a71a-56bb114ae813" alt="expo" width="40" height="40"/>
+      <img src="https://github.com/user-attachments/assets/518746d1-bbea-4e64-aa39-e99c7a522d98" alt="expo" width="40" height="40"/>
     </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
       <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow@2x.png" alt="bootstrap" width="40" height="40"/> 
