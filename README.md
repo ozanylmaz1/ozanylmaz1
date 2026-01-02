@@ -13,6 +13,7 @@
       style="vertical-align: middle;"
     />
   </a>
+&nbsp;&nbsp;
 
   <a href="mailto:ozany1542@gmail.com">
     <img
