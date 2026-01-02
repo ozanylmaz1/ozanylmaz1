@@ -94,17 +94,7 @@
     />
   </a>
 </p>
-
-  
-- 👨‍💻 I’m currently working on [DRD](https://github.com/ozanylmaz1/DRD-v1)
-  
-- ⚛️ I’m currently learning **React Native**
-
-- 📚 All of my projects are available at [projects](https://github.com/ozanylmaz1?tab=repositories)
-
-
-
-
+<p align="left">Click for details.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
