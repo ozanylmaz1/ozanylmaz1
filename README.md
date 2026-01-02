@@ -13,8 +13,7 @@
       style="vertical-align: middle;"
     />
   </a>
-&nbsp;&nbsp;
-
+&nbsp;
   <a href="mailto:ozany1542@gmail.com">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg/1200px-Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg.png"
@@ -27,7 +26,7 @@
 </p>
 
 <h3 align="left">My projects:</h3>
-
+<p align="left">Click for details.</p>
 <p align="left">
   <a href="https://www.bikayit.com/" target="_blank">
     <img
@@ -38,8 +37,7 @@
       style="vertical-align: middle;"
     />
   </a>
-&nbsp;&nbsp;
-
+&nbsp;
   <a href="https://github.com/ozanylmaz1/DRD-v1" target="_blank">
     <img
       src="https://github.com/user-attachments/assets/12b2199d-b4a5-4cf3-acb3-fe49fdc95b87"
@@ -49,8 +47,7 @@
       style="vertical-align: middle;"
     />
   </a>
-&nbsp;&nbsp;
-
+&nbsp;
   <a href="https://github.com/ozanylmaz1/Yeyemek">
     <img
       src="https://github.com/user-attachments/assets/4f3701e4-ec85-4f53-95cb-3427a6d4faf8"
@@ -60,8 +57,7 @@
       style="vertical-align: middle;"
     />
   </a>
-&nbsp;&nbsp;
-
+&nbsp;
   <a href="https://github.com/ozanylmaz1/To-Do-List">
     <img
       src="https://github.com/user-attachments/assets/b3a52edf-f099-4efd-a690-0895157c9502"
@@ -71,8 +67,7 @@
       style="vertical-align: middle;"
     />
   </a>
-  &nbsp;&nbsp;
-
+  &nbsp;
   <a href="https://github.com/ozanylmaz1/Checkup-Tracker">
     <img
       src="https://github.com/user-attachments/assets/bee9a448-5a67-4551-bf4d-ad1176fe3f21"
@@ -82,8 +77,7 @@
       style="vertical-align: middle;"
     />
   </a>
-    &nbsp;&nbsp;
-
+    &nbsp;
   <a href="https://github.com/ozanylmaz1/Su-Takip">
     <img
       src="https://github.com/user-attachments/assets/48e099a4-53c1-41e8-9084-1e207b1fe183"
@@ -94,7 +88,6 @@
     />
   </a>
 </p>
-<p align="left">Click for details.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
