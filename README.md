@@ -99,10 +99,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> 
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> 
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -113,14 +113,19 @@
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
       <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
     </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a>
+      <a href="https://docs.expo.dev/" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/user-attachments/assets/6941068c-4d14-4ac6-a71a-56bb114ae813" alt="expo" width="40" height="40"/>
+    </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
       <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow@2x.png" alt="bootstrap" width="40" height="40"/> 
     </a> 
+    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/user-attachments/assets/97538ea6-b79e-4b6f-a27b-aead8e88dec5" alt="aps.net-mvc" width="40" height="40"/> 
+    </a>
     <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> 
       <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="firebase" width="40" height="40"/> 
     </a> 
-
+    <a href="https://learn.microsoft.com/en-us/ssms" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/user-attachments/assets/e6e638b5-8cf4-4b7e-a75a-0a40574011c3" alt="ssms" width="40" height="40"/> 
+    </a>
 </p>
