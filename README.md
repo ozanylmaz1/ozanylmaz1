@@ -1,18 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
-<h2 align="center"> Frontend & Mobile App Developer</h2>
+<h2 align="center"> Frontend Developer</h2>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ozan-yilmaz-338b802a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-ozan-yilmaz" height="30" width="30" /></a>
+<a href="mailto:ozany1542@gmail.com"><img align="center" src="https://www.microsoft.com/content/dam/microsoft/ba…s/en-us/m365-app-icons-fy26/Outlook-Icon-FY26.svg" alt="mail-ozan-yilmaz" height="30" width="30" /></a>
+</p>
+
+- 📫 How to reach me ****
+  
 - 👨‍💻 I’m currently working on [DRD](https://github.com/ozanylmaz1/DRD-v1)
   
 - ⚛️ I’m currently learning **React Native**
 
 - 📚 All of my projects are available at [projects](https://github.com/ozanylmaz1?tab=repositories)
 
-- 📫 How to reach me **ozany1542@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ozan-yilmaz-338b802a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozan-yilmaz" height="30" width="40" /></a>
-</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
