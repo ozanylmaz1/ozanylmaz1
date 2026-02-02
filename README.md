@@ -48,6 +48,16 @@
     />
   </a>
 &nbsp;
+  <a href="https://cod.bikayit.com" target="_blank">
+    <img
+      src="https://github.com/user-attachments/assets/93eaece0-bda8-4925-a6bc-73860fc8a5b2"
+      alt="cod"
+      height="50"
+      width="50"
+      style="vertical-align: middle;"
+    />
+  </a>
+&nbsp;
   <a href="https://github.com/ozanylmaz1/Yeyemek">
     <img
       src="https://github.com/user-attachments/assets/4f3701e4-ec85-4f53-95cb-3427a6d4faf8"
