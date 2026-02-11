@@ -70,7 +70,7 @@
 &nbsp;
   <a href="https://github.com/ozanylmaz1/To-Do-List">
     <img
-      src="https://github.com/user-attachments/assets/131802fe-e761-4c52-ad21-5034e89a6ec8"
+      src="https://github.com/user-attachments/assets/6f992758-2956-40c6-baa7-e3b055a57c99"
       alt="to-do"
       height="50"
       width="50"
