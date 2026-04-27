@@ -101,4 +101,4 @@
 <br />
 
 ### Languages and Tools:
-<img width="100%" height="auto" alt="technology" src="https://github.com/user-attachments/assets/92601071-233c-41c9-97a9-1a1cfa8cbcac" />
+<img width="100%" height="auto" alt="technology" src="https://github.com/user-attachments/assets/b3866b08-cfe8-4ab8-abf6-7ae4dd4aad13" />
